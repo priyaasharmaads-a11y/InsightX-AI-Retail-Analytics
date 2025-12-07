@@ -102,7 +102,7 @@ The app will open in your browser at:http://localhost:8501/
 ---
 
 ## 📸 Screenshots
-(Add screenshots of your dashboard here)
+
 ![alt text](<Screenshot 2025-12-07 212941.png>)
 ![alt text](<Screenshot 2025-12-07 213000.png>) ![alt text](<Screenshot 2025-12-07 213013.png>) ![alt text](<Screenshot 2025-12-07 213025.png>) ![alt text](<Screenshot 2025-12-07 213036.png>)
 
@@ -118,4 +118,5 @@ The app will open in your browser at:http://localhost:8501/
 ---
 
 ## ❤️ Built With Passion for Data & Analytics
+
 
